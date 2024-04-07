@@ -6,7 +6,7 @@ Hey there! 👋, My name is Gideon Ayeni, and I'm a Full stack developer. My pas
 
 ---
 
-<!--### 🧰 Languages and Tools
+<!--### Languages and Tools
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -20,7 +20,7 @@ Hey there! 👋, My name is Gideon Ayeni, and I'm a Full stack developer. My pas
 
 # -->
 
-### 🌔 Languages, Technologies and Tools:
+### Languages, Technologies and Tools:
 
   ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
@@ -65,7 +65,7 @@ Hey there! 👋, My name is Gideon Ayeni, and I'm a Full stack developer. My pas
 
 ---
 
-### 🌓 Contact Information:
+### Contact Information:
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gideon-o-a-5a0a4b23b)
 <!-- - Email: Ayenigideon1107@gmail.com -->
 - [![Email](https://img.shields.io/badge/Email-0A66C2?style=flat-square&logo=email&logoColor=white)](Ayenigideon1107@gmail.com)
@@ -75,7 +75,7 @@ Hey there! 👋, My name is Gideon Ayeni, and I'm a Full stack developer. My pas
 ---
 
 
-### 🌘 My Statistics:
+### My Statistics:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gideon1107&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 ---
 ![Gideon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gideon1107&show_icons=true&theme=tokyonight&bg_color=000000)
