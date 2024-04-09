@@ -33,8 +33,8 @@ Hey there! 👋, My name is Gideon Ayeni, and I'm a Full stack developer. My pas
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
   ![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
   <br>
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
   ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite)
   ![SQLALchemy](https://img.shields.io/badge/-SQLAlchemy-black?style=flat-square&logo=SQLAlchemy)
   ![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
@@ -43,6 +43,7 @@ Hey there! 👋, My name is Gideon Ayeni, and I'm a Full stack developer. My pas
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
   ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
   ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
+  <br>
   ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
   
   
