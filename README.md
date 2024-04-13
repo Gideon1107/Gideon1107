@@ -70,7 +70,6 @@ Hey there! 👋, My name is Gideon Ayeni, and I'm a Full stack developer. My pas
 ### Contact Information:
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gideon-o-a-5a0a4b23b)
 <!-- - Email: Ayenigideon1107@gmail.com -->
-<!-- - [![Email](https://img.shields.io/badge/Email-0A66C2?style=flat-square&logo=email&logoColor=white)](Ayenigideon1107@gmail.com) -->
 - **`Email: Ayenigideon1107@gmail.com`**
 
 
