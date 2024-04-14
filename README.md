@@ -26,6 +26,8 @@ Hey there! 👋, My name is Gideon Ayeni, and I'm a Full stack developer. My pas
   ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![Jquery](https://img.shields.io/badge/-Jquery-black?style=flat-square&logo=jquery)
+  ![Node.Js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+  ![Express.Js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express.js)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
   ![Jinja](https://img.shields.io/badge/-Jinja-black?style=flat-square&logo=Jinja)
