@@ -82,7 +82,7 @@ Hey there! 👋, My name is Gideon Ayeni, and I'm a Full stack developer. My pas
 ---
 ![Gideon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gideon1107&show_icons=true&theme=tokyonight&bg_color=000000)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gideon1107&layout=compact&theme=tokyonight&background=000000)](https://github.com/Gideon1107/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gideon107&layout=compact&theme=tokyonight&background=000000)](https://github.com/Gideon1107/)
 ---
 
 ### 🌘 Check out my portfolio:
