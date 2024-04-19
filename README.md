@@ -29,13 +29,14 @@ Hey there! 👋, My name is Gideon Ayeni, and I'm a Full stack developer. My pas
   ![Node.Js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
   ![Express.Js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express.js)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
   ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
   ![Jinja](https://img.shields.io/badge/-Jinja-black?style=flat-square&logo=Jinja)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell)
   <br>
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
   ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite)
   ![SQLALchemy](https://img.shields.io/badge/-SQLAlchemy-black?style=flat-square&logo=SQLAlchemy)
@@ -49,10 +50,7 @@ Hey there! 👋, My name is Gideon Ayeni, and I'm a Full stack developer. My pas
   ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
   
   
-  
   <!-- ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
-  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-  ![Node.Js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
   ![Kali](https://img.shields.io/badge/-Kali-black?style=flat-square&logo=kalilinux)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
   ![CentOS](https://img.shields.io/badge/-CentOS-black?style=flat-square&logo=CentOS)
