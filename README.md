@@ -35,7 +35,6 @@ Hey there! 👋, My name is Gideon Ayeni, and I'm a Full stack developer. My pas
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-  <br>
   ![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
   ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite)
