@@ -1,6 +1,6 @@
 # 🏄‍♂️ Gideon Ayeni
 
-**`Software Developer/Engineer`**
+**`Full-Stack Software Engineer`**
 
 Hey there! 👋, My name is Gideon Ayeni, and I'm a Full stack developer. My passion is to create and develop a clean software, UI/UX and a scalable back-end server for users.I'm open for contributions.
 
