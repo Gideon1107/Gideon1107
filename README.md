@@ -36,6 +36,7 @@ Hey there! 👋, My name is Gideon Ayeni, and I'm a Full stack developer. My pas
   ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
   <br>
   ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+  ![MongoDB](https://img.shields.io/badge/-mongodb-black?style=flat-square&logo=mongodb)
   
   
   <!-- ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
