@@ -57,7 +57,7 @@ Hey there! 👋, My name is Gideon Ayeni, and I'm a Software Engineer. My passio
 ---
 
 ### Contact Information:
-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gideon-o-a-5a0a4b23b)
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gideon-ayeni)
 <!-- - Email: Ayenigideon1107@gmail.com -->
 - **`Email: Ayenigideon1107@gmail.com`**
 
