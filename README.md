@@ -75,5 +75,5 @@ Hey there! 👋, My name is Gideon Ayeni, and I'm a Full stack developer. My pas
 ---
 
 ### 🌘 Check out my portfolio:
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gideon-ayeni.onrender.com)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gideon-ayeni.vercel.app)
 
