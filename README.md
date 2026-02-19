@@ -1,6 +1,6 @@
 # 🏄‍♂️ Gideon Ayeni
 
-**`Full-Stack Software Engineer`**
+**`Software Engineer`**
 
 Hey there! 👋, My name is Gideon Ayeni, and I'm a Software Engineer. My passion is to create and develop a clean and scalable software.I'm open for contributions.
 
