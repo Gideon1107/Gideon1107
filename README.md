@@ -64,6 +64,8 @@ Hey there! 👋, My name is Gideon Ayeni, and I'm a Software Engineer. My passio
 
 
 ---
+## Buy me coffee
+https://buymeacoffee.com/ayenigideoo
 
 
 ### 🌘 Check out my portfolio:
