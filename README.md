@@ -51,7 +51,14 @@ Hey there! 👋, My name is Gideon Ayeni, and I'm a Software Engineer. My passio
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 ![macOS](https://img.shields.io/badge/-macOS-black?style=flat-square&logo=apple)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-  
+![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=langchain)
+![LangGraph](https://img.shields.io/badge/-LangGraph-black?style=flat-square&logo=langchain)
+![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai)
+![Anthropic](https://img.shields.io/badge/-Anthropic-black?style=flat-square&logo=anthropic)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-black?style=flat-square&logo=huggingface)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-black?style=flat-square&logo=chroma)
+![Pinecone](https://img.shields.io/badge/-Pinecone-black?style=flat-square&logo=pinecone)
+![pgvector](https://img.shields.io/badge/-pgvector-black?style=flat-square&logo=postgresql)
   
 
 ---
